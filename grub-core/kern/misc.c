@@ -123,6 +123,7 @@ grub_printf (const char *fmt, ...)
 int
 grub_printf_ (const char *fmt, ...)
 {
+  return 0;
   va_list ap;
   int ret;
 

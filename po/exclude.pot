@@ -4777,7 +4777,7 @@ msgstr ""
 
 #: grub-core/kern/main.c:261
 msgid ""
-"Welcome to GRUB!\n"
+"\n"
 "\n"
 msgstr ""
 
